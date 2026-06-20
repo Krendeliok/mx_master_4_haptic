@@ -2,7 +2,7 @@
 
 A Linux radial menu overlay triggered by the mouse thumb button (back button). Hold the thumb button, move the cursor toward a segment, and release to execute the bound action — all without lifting your hand off the mouse.
 
-![radial menu concept: buttons arranged in a circle around the cursor](https://placeholder)
+![radial menu concept: buttons arranged in a circle around the cursor](images/radial_menu.png)
 
 ## Features
 
