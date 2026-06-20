@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Build artefacts
+dist/
+build/
+*.egg-info/
+
+# uv
+uv.lock
+
+# Config (user-specific, auto-generated on first run)
+config.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
